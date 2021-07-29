@@ -18,12 +18,12 @@
 |  ![](https://raw.githubusercontent.com/ANPayeras/images/main/Captura%201%20-%20C.PNG) |  ![](https://raw.githubusercontent.com/ANPayeras/images/main/Captura%202%20-C.PNG) |
 
 #### Tecnologias Usadas:
-- React JS
-- Redux
-- CSS
-- Node JS
-- Express
-- Sequelize
-- PosgreSQL
+- ![](https://img.shields.io/badge/-React-brightgreen?style=?style=for-the-badge&logo=react)
+- ![](https://img.shields.io/badge/-Redux-brightgreen?style=?style=for-the-badge&logo=redux)
+- ![](https://img.shields.io/badge/-CSS-brightgreen?style=?style=for-the-badge&logo=CSS3)
+- ![](https://img.shields.io/badge/-Node%20JS-lightgrey?style=?style=for-the-badge&logo=Node.js)
+- ![](https://img.shields.io/badge/-Express-lightgrey?style=?style=for-the-badge&logo=Express)
+- ![](https://img.shields.io/badge/-Sequelize-lightgrey?style=?style=for-the-badge&logo=Sequelize)
+- ![](https://img.shields.io/badge/-Node%20JS-lightgrey?style=?style=for-the-badge&logo=PostgreSQL)
 
-[Repo](https://github.com/ANPayeras/Countries "Repo")
+[Repositorio](https://github.com/ANPayeras/Countries "Repo")
